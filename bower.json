@@ -1,0 +1,21 @@
+{
+  "name": "angular-draggable-list",
+  "version": "0.0.1",
+  "homepage": "http://nverba.github.io/angular-draggable-list",
+  "authors": [
+    "nverba"
+  ],
+  "description": "A bare bones draggable list directive for AngularJS",
+  "main": "draggable-list.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.3"
+  }
+}
